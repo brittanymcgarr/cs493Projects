@@ -1,0 +1,13 @@
+Meeting with Richard 02/05/2016
+-First Assignment: (due by next week)
+	-Get Blinky working on the BBB!
+	-Get Ubuntu on the BBB
+	-BEFORE installing Ubuntu, research if this is what we want.
+
+-First Project:
+	-Pendulum robotics with Adafruit 1604.
+	
+ROS: (ros.org)
+	-Only on Ubuntu.
+	-Try to work with ROS demos on BBB.
+	-Check wiki.ros.org/BeagleBone
